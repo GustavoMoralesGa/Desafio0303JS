@@ -1,0 +1,20 @@
+.solid {
+  width: 200px;
+  height: 200px;
+}
+
+#div1 {
+  background-color: aqua;
+}
+
+#div2 {
+  background-color: green;
+}
+
+#div3 {
+  background-color: pink;
+}
+
+#div4 {
+  background-color: orange;
+}
